@@ -1,0 +1,23 @@
+
+.platform{ border: 2px solid lightgrey;  background-color: beige;padding: 15px 20px;
+border-radius: 2mm; }
+
+
+div h1{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;color: rgb(249, 105, 9); background-color: rgb(233, 166, 130); border-radius: 5px;}
+
+p{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="file"],textarea
+{ 
+  
+   border-radius: 5px; width: 100%; background-color: rgb(255, 255, 255); margin: 10px; font-size: 20px;
+}
+
+body{ font-size: 20px;}
+
+input[type="submit"] {background-color: rgb(91, 178, 172); border: hidden; align-items: center; font-size:5mm ; padding: 1mm 2mm;  }
+
+body{background-image:url(/images/istockphoto-488851719-170667a.jpg);}
